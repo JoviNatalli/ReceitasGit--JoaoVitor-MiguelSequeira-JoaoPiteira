@@ -25,8 +25,13 @@ Cada PR foi criado a partir de uma branch de receitas e revisado por outro integ
 Após aprovação, o merge foi feito na branch main utilizando a opção “Merge pull request” do GitHub.
 PRs incluíam descrição detalhada das alterações e referência às issues correspondentes.
 
+<img width="1440" height="900" alt="Captura de ecrã 2025-12-01, às 1 11 04 AM" src="https://github.com/user-attachments/assets/a5ac97ad-d9c9-4339-8ab2-1e384a8b9656" />
+
+
 ## Conflitos e Resoluções
 Explique se houve conflitos e como foram resolvidos.
+
+
 
 ## Dificuldades Enfrentadas
 Aprender a organizar branches de forma eficiente.
